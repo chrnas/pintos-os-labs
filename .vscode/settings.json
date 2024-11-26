@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "thread.h": "c",
+        "syscall.h": "c",
+        "cstdlib": "c",
+        "*.tcc": "c",
+        "memory": "c",
+        "*.txx": "c",
+        "new": "c",
+        "list.h": "c",
+        "file.h": "c"
+    }
+}
