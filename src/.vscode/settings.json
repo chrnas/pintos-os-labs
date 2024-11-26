@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "init.h": "c",
+        "input.h": "c",
+        "list": "c",
+        "list.h": "c",
+        "syscall.h": "c",
+        "thread.h": "c",
+        "typeindex": "c",
+        "typeinfo": "c",
+        "main.h": "c"
+    }
+}
